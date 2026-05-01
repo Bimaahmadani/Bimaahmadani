@@ -1,5 +1,5 @@
 # Greetings! Friends 👋
-### - 😎 I'm Bima Ahmadani <br>- 🌱 Currently learning Next.js, TypeScript, and Web Development.<br>- 👯 Looking to collaborate on web apps <br>- 💬 Ask me about React, Laravel, UI/UX, and frontend development.<br>- 📫 How to reach me: bahmadanidiyaulhaq@gmail.com<br>- ⚡ Fun fact: I love Gaming and Anime  .
+### - 😎 I'm Bima Ahmadani <br>- 🌱 Currently learning Next.js, TypeScript, and Web Development.<br>- 👯 Looking to collaborate on web apps <br>- 🧑‍💻Code, 🐞Debug, 💢Stress, 🛞Adapt <br>- 📫 How to reach me: bahmadanidiyaulhaq@gmail.com<br>- ⚡ Fun fact: I love Gaming and Anime  .
 
 
 ## 🌐 Socials:
