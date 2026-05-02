@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Bimaahmadani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com/?user=Bimaahmadani&theme=tokyonight&hide_border=false" /><br>
-   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bimaahmadani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bimaahmadani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bimaahmadani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
