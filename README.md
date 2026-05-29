@@ -1,5 +1,5 @@
 # Greetings! Friends 👋
-### 😎 My name is Bima Ahmadani Diyaul Haq <br>🌱 Currently learning Next.js, TypeScript, and Web Development.<br> 👯 Looking to collaborate on web apps <br> 📫 Contact me me: bahmadanidiyaulhaq@gmail.com<br>⚡ Fun fact: I love Gaming and Anime. 
+### 😎 My name is Bima Ahmadani Diyaul Haq <br>🌱 Currently learning Next.js, TypeScript, and Web Development.<br> 👯 Looking to collaborate on web apps <br> 📫 Contact me: bahmadanidiyaulhaq@gmail.com<br>⚡ Fun fact: I love Gaming and Anime. 
 
 ## 🧑‍💻Code ➡️🐞Debug ➡️💢Stress ➡️🛞Adapt
 
